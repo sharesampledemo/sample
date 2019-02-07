@@ -21,7 +21,7 @@ fs.readFile('data.json', (err, data) => {
 		}
 	
 	student.user4=user4;
-	console.log(student);
+	 
 });
 
 
